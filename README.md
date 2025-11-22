@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Autores
 
-**Autores:** David Alejandro Zapata-Toro, Daniel Calderón-Salinas, Kevin Alexander Salinas-Paez
+**Autores:** David Alejandro Zapata-Toro, Daniel Calderón-Bonilla, Kevin Alexander Salinas-Paez
 
 ---
 
