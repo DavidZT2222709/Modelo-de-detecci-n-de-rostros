@@ -1,4 +1,4 @@
-![Banner del proyecto de detección de rostros](ruta/a/tu/imagen/banner.png)
+![Banner del proyecto de detección de rostros](https://github.com/DavidZT2222709/Modelo-de-detecci-n-de-rostros/blob/main/Banner%20IA.png?raw=true)
 
 # 🧠 Proyecto de Detección y Reconocimiento Facial
 
