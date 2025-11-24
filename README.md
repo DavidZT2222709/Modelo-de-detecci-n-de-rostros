@@ -33,6 +33,6 @@ Este proyecto hace uso de diversas metodologías de Inteligencia Artificial para
 
 ## 🔗 Enlaces
 
-* **Código Fuente:** [Enlace al código en este repositorio]([enlace a la carpeta principal del código])
+* **Código Fuente:** https://github.com/DavidZT2222709/Modelo-de-detecci-n-de-rostros/tree/main/Notebooks
 * **Video Demostrativo:** https://youtu.be/hQuaWuRWhZk
-* **Repositorio (Actual):** [Enlace a este repositorio de GitHub]([enlace al repositorio])
+* **Repositorio (Actual):** https://github.com/DavidZT2222709/Modelo-de-detecci-n-de-rostros
