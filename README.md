@@ -34,5 +34,5 @@ Este proyecto hace uso de diversas metodologías de Inteligencia Artificial para
 ## 🔗 Enlaces
 
 * **Código Fuente:** [Enlace al código en este repositorio]([enlace a la carpeta principal del código])
-* **Video Demostrativo:** [Enlace al video explicativo del proyecto]([enlace a YouTube o similar])
+* **Video Demostrativo:** https://youtu.be/hQuaWuRWhZk
 * **Repositorio (Actual):** [Enlace a este repositorio de GitHub]([enlace al repositorio])

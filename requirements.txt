@@ -4,3 +4,5 @@ joblib
 scikit-learn
 seaborn
 scipy
+tensorflow
+keras
